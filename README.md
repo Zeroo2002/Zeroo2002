@@ -8,4 +8,3 @@
 - 📫 How to reach me: u20ece1011@cit.ac.in
 - 😄 Pronouns: She
 - ⚡ Fun fact: None
--->
