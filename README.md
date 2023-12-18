@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Git, GitHub
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate on Python based projects
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about anything
